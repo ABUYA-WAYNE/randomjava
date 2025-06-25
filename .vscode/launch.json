@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Die.Program",
+            "projectName": "randomjava_3fd6b248"
+        },
+        {
+            "type": "java",
+            "name": "JavaFxApplication",
+            "request": "launch",
+            "mainClass": "JavaFxApplication",
+            "projectName": "randomjava_3fd6b248"
+        },
+        {
+            "type": "java",
+            "name": "PinMaker",
+            "request": "launch",
+            "mainClass": "PinMaker",
+            "projectName": "randomjava_3fd6b248"
+        },
+        {
+            "type": "java",
+            "name": "SmartFarmSensorSystem",
+            "request": "launch",
+            "mainClass": "SmartFarmSensorSystem",
+            "projectName": "randomjava_3fd6b248"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "WeatherApp.Main",
+            "projectName": "randomjava_3fd6b248"
+        },
+        {
+            "type": "java",
+            "name": "helloGitHub",
+            "request": "launch",
+            "mainClass": "helloGitHub",
+            "projectName": "randomjava_3fd6b248"
+        }
+    ]
+}

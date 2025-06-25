@@ -45,5 +45,6 @@ public class SmartFarmSensorSystem {
         System.out.println("Rain Detected: " + isRaining);
         System.out.printf("Temperature: %.2f °C\n", temperature);
         System.out.println("Reproducible Uptime (seeded): " + reproducibleUptime);
+        System.out.println((double)7);
     }
 }
